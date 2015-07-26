@@ -1,0 +1,32 @@
+<html>
+<link rel="stylesheet" href="contentpage.css" type="text/css">
+<body>
+For technical support please contact OC members below. We will try to answer all e-mails as soon as possible.<br>
+<br>
+<h3>Senior Programmer:</h3>
+&nbsp;&nbsp;Danny Su<br>
+<br>
+<h3>Programmer:</h3>
+&nbsp;&nbsp;Andrei Leonov<br>
+&nbsp;&nbsp;Keith Fung<br>
+<h3>Send Message:</h3>
+<form action="email.php" method="post" name="email">
+Member to send e-mail to:<br>
+<select name="to">
+<option value="thedumbkid@hotmail.com">Danny Su</option>
+<option value="keason@users.sourceforge.net">Keith Fung</option>
+<option value="bure4ever@users.sourceforge.net">Andrei Leonov</option>
+</select><br><br>
+Your E-Mail Address:<br>
+<input name="from" type="text" size="30" maxlength="40"><br><br>
+Your Name:<br>
+<input name="sender" type="text" size="30" maxlength="40"><br><br>
+<!--Subject:<br>
+<input name="subject" type="text" size="30" maxlength="40"><br><br>-->
+Message:<br>
+<textarea name="msg" rows="15" cols="60" wrap="hard"></textarea>
+<br><br>
+<input type="submit" value="send">
+</form>
+</body>
+</html>

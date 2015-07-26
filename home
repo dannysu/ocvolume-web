@@ -1,0 +1,21 @@
+<html>
+<link rel="stylesheet" href="contentpage.css" type="text/css">
+<body>
+<h3>WHO are we?</h3>
+OrangeCow (OC) is a non-profit organization that devotes its resources to bring free and useful sofware for the public.
+<br><br>
+<h3>WHAT is OC Volume?</h3>
+OC Volume is the first software released by OrangeCow organization. The aim of this program is to enable voice communication with computers. OC Volume is a speech recognition engine written in Java, and should be integrated with other applications to create voice-driven software.
+<br><br>
+<h3>WHEN did we start the project?</h3>
+The OC Volume project started on March 28, 2002.
+<br><br>
+<h3>WHY free and open-source?</h3>
+Members of OrangeCow organization believe that things should be free since we all enjoy free stuff. Our aim is not to make money but to help human-to-computer communication research field. We decide to make our software Open-Source to better benefit programmers and those who want to contribute.
+<br><br>
+<h3>WHERE can I find it?</h3>
+OC Volume can be found at http://ocvolume.sourceforge.net
+<br><br>
+You can also visit our project page on SourceForge.net for information.
+<a href="http://sourceforge.net/projects/ocvolume/">http://sourceforge.net/projects/ocvolume/</a>
+</body></html>

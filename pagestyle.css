@@ -1,0 +1,38 @@
+body {
+  color: 333333;
+  font-family: Arial;
+  font-size: 10pt;
+  background-color: FF8929;
+  margin-top: 0px;
+  margin-left: 0px;
+
+  scrollbar-face-color: E6E6E6;
+  scrollbar-shadow-color: 000000; 
+  scrollbar-highlight-color: 000000;
+  scrollbar-3dlight-color: FFFFFF; 
+  scrollbar-darkshadow-color: FFFFFF;
+  scrollbar-track-color: FFFFFF; 
+  scrollbar-arrow-color: 000000;
+
+  line-height: 30px;
+}
+
+a:link { font-size: 10pt; color: 333333; text-decoration: none; }
+a:visited { font-size: 10pt; color: 333333; text-decoration: none; }
+a:active { font-size: 10pt; color: 333333; text-decoration: none; }
+a:hover { font-size: 10pt; color: 333333; text-decoration: underline overline; }
+
+table{
+  font-size: 10pt;
+}
+
+td{
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+td.contents{
+  background: white url("images/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
